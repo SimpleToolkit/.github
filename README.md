@@ -33,7 +33,7 @@
             Class extensions
         </td>
         <td>
-            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.Extensions">Repository</a>
+            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.Extensions"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
         </td>
         <td>
             <a href="https://www.nuget.org/packages/SimpleToolkit.Extensions/"><img src="https://img.shields.io/nuget/v/SimpleToolkit.Extensions.svg?style=flat-square"></a>
@@ -47,7 +47,7 @@
             abc
         </td>
         <td>
-            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.Attributes">Repository</a>
+            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.Attributes"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
         </td>
         <td>
             <a href="https://www.nuget.org/packages/SimpleToolkit.Attributes/"><img src="https://img.shields.io/nuget/v/SimpleToolkit.Attributes.svg?style=flat-square"></a>
@@ -61,7 +61,7 @@
             abc
         </td>
         <td>
-            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.MVVM">Repository</a>
+            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.MVVM"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
         </td>
         <td>
             <a href="https://www.nuget.org/packages/SimpleToolkit.MVVM/"><img src="https://img.shields.io/nuget/v/SimpleToolkit.MVVM.svg?style=flat-square"></a>
@@ -75,7 +75,7 @@
             abc
         </td>
         <td>
-            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.Models">Repository</a>
+            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.Models"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
         </td>
         <td>
             <a href="https://www.nuget.org/packages/SimpleToolkit.UI.Models/"><img src="https://img.shields.io/nuget/v/SimpleToolkit.UI.Models.svg?style=flat-square"></a>
@@ -89,7 +89,7 @@
             abc
         </td>
         <td>
-            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.WinUI.Behaviors">Repository</a>
+            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.WinUI.Behaviors"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
         </td>
         <td>
             <a href="https://www.nuget.org/packages/SimpleToolkit.UI.WinUI.Behaviors/"><img src="https://img.shields.io/nuget/v/SimpleToolkit.UI.WinUI.Behaviors.svg?style=flat-square"></a>
@@ -103,7 +103,7 @@
             abc
         </td>
         <td>
-            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.WinUI.Converters">Repository</a>
+            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.WinUI.Converters"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
         </td>
         <td>
             <a href="https://www.nuget.org/packages/SimpleToolkit.UI.WinUI.Converters/"><img src="https://img.shields.io/nuget/v/SimpleToolkit.UI.WinUI.Converters.svg?style=flat-square"></a>
@@ -117,7 +117,7 @@
             abc
         </td>
         <td>
-            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.WinUI.Controls">Repository</a>
+            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.WinUI.Controls"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
         </td>
         <td>
             <a href="https://www.nuget.org/packages/SimpleToolkit.UI.WinUI.Controls/"><img src="https://img.shields.io/nuget/v/SimpleToolkit.UI.WinUI.Controls.svg?style=flat-square"></a>
@@ -131,7 +131,7 @@
             abc
         </td>
         <td>
-            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.WinUI.Helpers">Repository</a>
+            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.WinUI.Helpers"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
         </td>
         <td>
             <a href="https://www.nuget.org/packages/SimpleToolkit.UI.WinUI.Helpers/"><img src="https://img.shields.io/nuget/v/SimpleToolkit.UI.WinUI.Helpers.svg?style=flat-square"></a>
