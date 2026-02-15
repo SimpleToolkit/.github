@@ -8,11 +8,6 @@
 
 ---
 
-## Informations
-
-> [!Important]
-> This organization and repositories are only mirror to <a href="https://repos.mateuszskoczek.com/SimpleToolkit">this</a>. All changes are first uploaded to the original repositories. Releases are also published on original repositories. However, Github repositories handles issues and pull requests for better accessibility.
-
 ## List of subpackages
 
 <table>
