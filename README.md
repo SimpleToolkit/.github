@@ -72,7 +72,7 @@
             SimpleToolkit.UI.Models
         </th>
         <td>
-            abc
+            UI helpers and models
         </td>
         <td>
             <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.Models"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
