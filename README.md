@@ -58,7 +58,7 @@
             SimpleToolkit.MVVM
         </th>
         <td>
-            abc
+            MVVM architecture models and helper classes
         </td>
         <td>
             <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.MVVM"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
