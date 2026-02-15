@@ -114,7 +114,7 @@
             SimpleToolkit.UI.WinUI.Controls
         </th>
         <td>
-            abc
+            Custom controls for WinUI applications
         </td>
         <td>
             <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.WinUI.Controls"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
@@ -128,7 +128,7 @@
             SimpleToolkit.UI.WinUI.Helpers
         </th>
         <td>
-            abc
+            Helper classes for WinUI applications
         </td>
         <td>
             <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.WinUI.Helpers"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
