@@ -44,7 +44,7 @@
             SimpleToolkit.Attributes
         </th>
         <td>
-            abc
+            Class, method and property attributes
         </td>
         <td>
             <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.Attributes"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
