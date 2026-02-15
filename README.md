@@ -114,7 +114,7 @@
             SimpleToolkit.UI.WinUI.Controls
         </th>
         <td>
-            Custom controls for WinUI applications
+            Custom UI controls for WinUI applications
         </td>
         <td>
             <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.WinUI.Controls"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
