@@ -86,7 +86,7 @@
             SimpleToolkit.UI.WinUI.Behaviors
         </th>
         <td>
-            abc
+            XAML action triggers for WinUI applications
         </td>
         <td>
             <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.WinUI.Behaviors"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
