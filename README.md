@@ -100,7 +100,7 @@
             SimpleToolkit.UI.WinUI.Converters
         </th>
         <td>
-            abc
+            XAML value converters for WinUI applications
         </td>
         <td>
             <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.WinUI.Converters"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
