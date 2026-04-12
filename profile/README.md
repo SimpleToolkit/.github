@@ -41,7 +41,7 @@
             <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.Extensions"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
         </td>
         <td>
-            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/-/packages/nuget/simpletoolkit.extensions/"><img src="https://img.shields.io/gitea/v/release/SimpleToolkit/SimpleToolkit.Extensions?gitea_url=https%3A%2F%2Frepos.mateuszskoczek.com%2F&display_name=release&label=nuget"></a>
+            <a href="https://www.nuget.org/packages/SimpleToolkit.Extensions/"><img src="https://img.shields.io/nuget/v/SimpleToolkit.Extensions.svg?style=flat-square"></a>
         </td>
     </tr>
     <tr>
@@ -55,7 +55,7 @@
             <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.Attributes"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
         </td>
         <td>
-            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/-/packages/nuget/simpletoolkit.attributes/"><img src="https://img.shields.io/gitea/v/release/SimpleToolkit/SimpleToolkit.Attributes?gitea_url=https%3A%2F%2Frepos.mateuszskoczek.com%2F&display_name=release&label=nuget"></a>
+            <a href="https://www.nuget.org/packages/SimpleToolkit.Attributes/"><img src="https://img.shields.io/nuget/v/SimpleToolkit.Attributes.svg?style=flat-square"></a>
         </td>
     </tr>
     <tr>
@@ -69,7 +69,7 @@
             <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.MVVM"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
         </td>
         <td>
-            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/-/packages/nuget/simpletoolkit.mvvm/"><img src="https://img.shields.io/gitea/v/release/SimpleToolkit/SimpleToolkit.MVVM?gitea_url=https%3A%2F%2Frepos.mateuszskoczek.com%2F&display_name=release&label=nuget"></a>
+            <a href="https://www.nuget.org/packages/SimpleToolkit.MVVM/"><img src="https://img.shields.io/nuget/v/SimpleToolkit.MVVM.svg?style=flat-square"></a>
         </td>
     </tr>
     <tr>
@@ -83,7 +83,7 @@
             <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.Models"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
         </td>
         <td>
-            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/-/packages/nuget/simpletoolkit.ui.models/"><img src="https://img.shields.io/gitea/v/release/SimpleToolkit/SimpleToolkit.UI.Models?gitea_url=https%3A%2F%2Frepos.mateuszskoczek.com%2F&display_name=release&label=nuget"></a>
+            <a href="https://www.nuget.org/packages/SimpleToolkit.UI.Models/"><img src="https://img.shields.io/nuget/v/SimpleToolkit.UI.Models.svg?style=flat-square"></a>
         </td>
     </tr>
     <tr>
@@ -97,7 +97,7 @@
             <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.WinUI.Behaviors"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
         </td>
         <td>
-            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/-/packages/nuget/simpletoolkit.ui.winui.behaviors/"><img src="https://img.shields.io/gitea/v/release/SimpleToolkit/SimpleToolkit.UI.WinUI.Behaviors?gitea_url=https%3A%2F%2Frepos.mateuszskoczek.com%2F&display_name=release&label=nuget"></a>
+            <a href="https://www.nuget.org/packages/SimpleToolkit.UI.WinUI.Behaviors/"><img src="https://img.shields.io/nuget/v/SimpleToolkit.UI.WinUI.Behaviors.svg?style=flat-square"></a>
         </td>
     </tr>
     <tr>
@@ -111,7 +111,7 @@
             <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.WinUI.Converters"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
         </td>
         <td>
-            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/-/packages/nuget/simpletoolkit.ui.winui.converters/"><img src="https://img.shields.io/gitea/v/release/SimpleToolkit/SimpleToolkit.UI.WinUI.Converters?gitea_url=https%3A%2F%2Frepos.mateuszskoczek.com%2F&display_name=release&label=nuget"></a>
+            <a href="https://www.nuget.org/packages/SimpleToolkit.UI.WinUI.Converters/"><img src="https://img.shields.io/nuget/v/SimpleToolkit.UI.WinUI.Converters.svg?style=flat-square"></a>
         </td>
     </tr>
     <tr>
@@ -125,7 +125,7 @@
             <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.WinUI.Controls"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
         </td>
         <td>
-            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/-/packages/nuget/simpletoolkit.ui.winui.controls/"><img src="https://img.shields.io/gitea/v/release/SimpleToolkit/SimpleToolkit.UI.WinUI.Controls?gitea_url=https%3A%2F%2Frepos.mateuszskoczek.com%2F&display_name=release&label=nuget"></a>
+            <a href="https://www.nuget.org/packages/SimpleToolkit.UI.WinUI.Controls/"><img src="https://img.shields.io/nuget/v/SimpleToolkit.UI.WinUI.Controls.svg?style=flat-square"></a>
         </td>
     </tr>
     <tr>
@@ -139,20 +139,19 @@
             <a href="https://repos.mateuszskoczek.com/SimpleToolkit/SimpleToolkit.UI.WinUI.Helpers"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
         </td>
         <td>
-            <a href="https://repos.mateuszskoczek.com/SimpleToolkit/-/packages/nuget/simpletoolkit.ui.winui.helpers/"><img src="https://img.shields.io/gitea/v/release/SimpleToolkit/SimpleToolkit.UI.WinUI.Helpers?gitea_url=https%3A%2F%2Frepos.mateuszskoczek.com%2F&display_name=release&label=nuget"></a>
+            <a href="https://www.nuget.org/packages/SimpleToolkit.UI.WinUI.Helpers/"><img src="https://img.shields.io/nuget/v/SimpleToolkit.UI.WinUI.Helpers.svg?style=flat-square"></a>
         </td>
     </tr>
 </table>
 
 ## Installation and usage
 
-All subpackages can be download independently from this organization's NuGet registry. To download package from organization package registry, you have to add new NuGet package source. You will need access details, which you can obtain by contacting the repository owner. You can also download .nupkg files from each repository Releases page.
+All subpackages can be download independently from official NuGet registry. You can also download .nupkg files from each repository Releases page.
 
 **CLI:**
 
 ```
-dotnet nuget add source --name SimpleToolkit --username <username> --password <password> https://repos.mateuszskoczek.com/api/packages/SimpleToolkit/nuget/index.json
-dotnet add package --source SimpleToolikt SimpleToolkit.<subpackage>
+dotnet add package SimpleToolkit.<subpackage>
 ```
 
 **Package reference in .csproj file:**
