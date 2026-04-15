@@ -46,16 +46,16 @@
     </tr>
     <tr>
         <th>
-            MSEssentials.Attributes
+            MSEssentials.AspNetCore.Attributes
         </th>
         <td>
-            Class, method and property attributes
+            Class, method and property attributes for ASP.NET Core apps
         </td>
         <td>
-            <a href="https://repos.mateuszskoczek.com/MSEssentials/MSEssentials.Attributes"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
+            <a href="https://repos.mateuszskoczek.com/MSEssentials/MSEssentials.AspNetCore.Attributes"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
         </td>
         <td>
-            <a href="https://www.nuget.org/packages/MSEssentials.Attributes/"><img src="https://img.shields.io/nuget/v/MSEssentials.Attributes.svg?style=flat-square"></a>
+            <a href="https://www.nuget.org/packages/MSEssentials.AspNetCore.Attributes/"><img src="https://img.shields.io/nuget/v/MSEssentials.AspNetCore.Attributes.svg?style=flat-square"></a>
         </td>
     </tr>
     <tr>
