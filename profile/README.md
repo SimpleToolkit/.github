@@ -128,20 +128,6 @@
             <a href="https://www.nuget.org/packages/MSEssentials.UI.WinUI.Controls/"><img src="https://img.shields.io/nuget/v/MSEssentials.UI.WinUI.Controls.svg?style=flat-square"></a>
         </td>
     </tr>
-    <tr>
-        <th>
-            MSEssentials.UI.WinUI.Helpers
-        </th>
-        <td>
-            Helper classes for WinUI applications
-        </td>
-        <td>
-            <a href="https://repos.mateuszskoczek.com/MSEssentials/MSEssentials.UI.WinUI.Helpers"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
-        </td>
-        <td>
-            <a href="https://www.nuget.org/packages/MSEssentials.UI.WinUI.Helpers/"><img src="https://img.shields.io/nuget/v/MSEssentials.UI.WinUI.Helpers.svg?style=flat-square"></a>
-        </td>
-    </tr>
 </table>
 
 ## Installation and usage
